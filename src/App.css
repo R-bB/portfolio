@@ -68,3 +68,21 @@
   padding-left: 30px;
   padding-right: 30px;
 }
+
+.projects-grid {
+  display: flex;
+  width: 100%;
+  text-align: center;
+  margin: auto;
+}
+
+.project-links {
+  display: block;
+  margin: auto;
+}
+
+.project-links a {
+  color: #000;
+  text-decoration: none;
+  padding: 10%;
+}
